@@ -9,3 +9,5 @@
 + No se validara las existencias o compras recurrentes en el aplicativo
 
 ## Historia de Usuario
+> HU_01_Menu_Inicial
+
