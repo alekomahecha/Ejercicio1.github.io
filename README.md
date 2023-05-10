@@ -8,3 +8,4 @@
 + No se realiza valdación, ni se verifica calidad en los dato ingresados
 + No se validara las existencias o compras recurrentes en el aplicativo
 
+## Historia de Usuario
