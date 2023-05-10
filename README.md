@@ -11,3 +11,11 @@
 ## Historia de Usuario
 > HU_01_Menu_Inicial
 ![Primera Historia de Usuario](HU/HU_01.JPG)
+> HU_02_Venta_Vehiculo
+![Segunda Historia de Usuario](HU/HU_02.JPG)
+> HU_03_Listar_Venta
+![Tercera Historia de Usuario](HU/HU_03.JPG)
+> HU_04_Listar_Vehiculos
+![Cuarta Historia de Usuario](HU/HU_04.JPG)
+#
+##Casos de Uso
