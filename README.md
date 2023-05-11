@@ -19,3 +19,11 @@
 ![Cuarta Historia de Usuario](HU/HU_04.JPG)
 #
 ## Casos de Uso
+> HU_01_Menu_Inicial
+![Caso de uso Usuario](Casos de Uso/HU_01.jpeg)
+> HU_02_Venta_Vehiculo
+![Segunda Caso de uso Usuario](Casos de Uso/HU_02.jpeg)
+> HU_03_Listar_Venta
+![Tercera Caso de uso Usuario](Casos de Uso/HU_03.jpeg)
+> HU_04_Listar_Vehiculos
+![Cuarta Caso de uso Usuario](Casos de Uso/HU_04.jpeg)
