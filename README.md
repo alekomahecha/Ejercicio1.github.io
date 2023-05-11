@@ -20,10 +20,10 @@
 #
 ## Casos de Uso
 > HU_01_Menu_Inicial
-![Caso de uso Usuario](Casos de Uso/HU_01.jpeg)
+![Caso de uso Usuario](CU/HU_01.jpeg)
 > HU_02_Venta_Vehiculo
-![Segunda Caso de uso Usuario](Casos de Uso/HU_02.jpeg)
+![Segunda Caso de uso Usuario](CU/HU_01.jpeg)
 > HU_03_Listar_Venta
-![Tercera Caso de uso Usuario](Casos de Uso/HU_03.jpeg)
+![Tercera Caso de uso Usuario](CU/HU_01.jpeg)
 > HU_04_Listar_Vehiculos
-![Cuarta Caso de uso Usuario](Casos de Uso/HU_04.jpeg)
+![Cuarta Caso de uso Usuario](CU/HU_01.jpeg)
