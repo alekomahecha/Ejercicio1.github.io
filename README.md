@@ -29,4 +29,4 @@
 ![Cuarta Caso de uso Usuario](CU/HU_01.jpeg)
 #
 ## Diagrama de Flujo
-![Caso de uso Usuario](CU/HU_01.jpeg)
+![Caso de uso Usuario](CU/DFD.jpeg)
