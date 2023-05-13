@@ -35,8 +35,8 @@
 ```
 Algoritmo VentaVehiculo
     // Declaración de variables
-    arreglo ventas[50]
-    arreglo vehiculos[4]
+    caracteres ventas[50]
+    caracteres vehiculos[4]
     entero opcion, numeroventa = 0, opcionVenta, retorno = 0
     
     hacer {
@@ -48,7 +48,7 @@ Algoritmo VentaVehiculo
         escribir("2. Listar ventas")
         escribir("3. Lista de Vehículos")
         escribir("4. Salir")
-        opcion = sc.leerEntero()
+        Asignar opcion 
         
         si(opcion >= 1 y opcion <=4) entonces
             seleccionar(opcion) hacer
@@ -59,7 +59,7 @@ Algoritmo VentaVehiculo
                     escribir("2. Aston Matin-Fernando Alonso")
                     escribir("3. Mercedes-Lewis Hamilton")
                     escribir("4. Ferrari-Charles Leclerc")
-                    opcionVenta = sc.leerEntero()
+                    Asignar opcionVenta 
                     
                     seleccionar(opcionVenta) hacer
                         caso 1:
@@ -76,7 +76,7 @@ Algoritmo VentaVehiculo
                     numeroventa++
                     escribir("1. Regresar al menú")
                     escribir("2. Salir")
-                    retorno = sc.leerEntero()
+                    Asignar retorno 
                 caso 2:
                     escribir("Ventas a la fecha")
                     escribir("---------------------------------------------")
@@ -85,7 +85,7 @@ Algoritmo VentaVehiculo
                     fin para
                     escribir("1. Regresar al menú")
                     escribir("2. Salir")
-                    retorno = sc.leerEntero()
+                    Asignar retorno 
                 caso 3:
                     vehiculos[0] = "Red Bull-Max Verstapen"
                     vehiculos[1] = "Aston Matin-Fernando Alonso"
@@ -98,7 +98,7 @@ Algoritmo VentaVehiculo
                     escribir("-----------------------------")
                     escribir("1. Regresar al menú")
                     escribir("2. Salir")
-                    retorno = sc.leerEntero()
+                    Asignar retorno 
                 caso 4:
                     finAlgoritmo
             fin seleccionar
