@@ -33,7 +33,7 @@
 #
 ## Psudocodigo
 ```
-Algoritmo VentaVehiculo
+inicio
     // Declaración de variables
     caracteres ventas[50]
     caracteres vehiculos[4]
@@ -107,6 +107,6 @@ Algoritmo VentaVehiculo
             retorno = 1
         fin si
     mientras(retorno == 1)
-finAlgoritmo
+fin
 ```
 
