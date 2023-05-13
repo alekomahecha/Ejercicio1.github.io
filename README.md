@@ -22,11 +22,11 @@
 > HU_01_Menu_Inicial
 ![Caso de uso Usuario](CU/HU_01.jpeg)
 > HU_02_Venta_Vehiculo
-![Segunda Caso de uso Usuario](CU/HU_01.jpeg)
+![Segunda Caso de uso Usuario](CU/HU_02.jpeg)
 > HU_03_Listar_Venta
-![Tercera Caso de uso Usuario](CU/HU_01.jpeg)
+![Tercera Caso de uso Usuario](CU/HU_03.jpeg)
 > HU_04_Listar_Vehiculos
-![Cuarta Caso de uso Usuario](CU/HU_01.jpeg)
+![Cuarta Caso de uso Usuario](CU/HU_04.jpeg)
 #
 ## Diagrama de Flujo
 ![Caso de uso Usuario](CU/DFD.jpeg)
